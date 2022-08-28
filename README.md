@@ -12,4 +12,4 @@ specific language impairment (SLI), is a language disorder that delays the langu
 
 ## Method
 The proposed system for automatic detection of SLI from speech is shown below.
-![Image alt text](/img/1.PNG)
+![Image alt text](/img/SLI_model.jpg)
